@@ -1,0 +1,458 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - current weather in seattle",
+        "totalResults": "52000000",
+        "searchTerms": "current weather in seattle",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "4666e7e8594974417"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - current weather in seattle",
+        "totalResults": "52000000",
+        "searchTerms": "current weather in seattle",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "4666e7e8594974417"
+      }
+    ]
+  },
+  "context": {
+    "title": "my search engine"
+  },
+  "searchInformation": {
+    "searchTime": 0.418191,
+    "formattedSearchTime": "0.42",
+    "totalResults": "52000000",
+    "formattedTotalResults": "52,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Seattle, WA Weather Forecast and Conditions - The Weather ...",
+      "htmlTitle": "\u003cb\u003eSeattle\u003c/b\u003e, WA \u003cb\u003eWeather\u003c/b\u003e Forecast and Conditions - The \u003cb\u003eWeather\u003c/b\u003e ...",
+      "link": "https://weather.com/weather/today/l/Seattle+WA?canonicalCityId=0795df0bbf6ddfe58c10abd8ce5ed2a901e48b13b3ee35d10cb229baff15ed15",
+      "displayLink": "weather.com",
+      "snippet": "Today's and tonight's Seattle, WA weather forecast, weather conditions and Doppler radar from The Weather Channel and Weather.com.",
+      "htmlSnippet": "\u003cb\u003eToday&#39;s\u003c/b\u003e and tonight&#39;s \u003cb\u003eSeattle\u003c/b\u003e, WA \u003cb\u003eweather\u003c/b\u003e forecast, \u003cb\u003eweather\u003c/b\u003e conditions and Doppler radar from The \u003cb\u003eWeather\u003c/b\u003e Channel and \u003cb\u003eWeather\u003c/b\u003e.com.",
+      "cacheId": "BaIJzJSrsvQJ",
+      "formattedUrl": "https://weather.com/weather/today/l/Seattle+WA?canonicalCityId...",
+      "htmlFormattedUrl": "https://\u003cb\u003eweather\u003c/b\u003e.com/\u003cb\u003eweather\u003c/b\u003e/\u003cb\u003etoday\u003c/b\u003e/l/\u003cb\u003eSeattle\u003c/b\u003e+WA?canonicalCityId...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBGDEb7y6CRPBkxG3a7KwLE9CqhutCDp8WC8MBma6e1XEmhQ7X3AKnVUI",
+            "width": "240",
+            "height": "180"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "apple-itunes-app": "app-id=295646461",
+            "og:image": "https://s.w-x.co/240x180_twc_default.png",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "og:site_name": "The Weather Channel",
+            "og:image:url": "https://s.w-x.co/240x180_twc_default.png",
+            "og:title": "Seattle, WA Weather Forecast and Conditions - The Weather Channel | Weather.com",
+            "msapplication-tileimage": "/daybreak-today/assets/ms-icon-144x144.d353af.png",
+            "og:description": "Today’s and tonight’s Seattle, WA weather forecast, weather conditions and Doppler radar from The Weather Channel and Weather.com",
+            "og:image:secure_url": "https://s.w-x.co/240x180_twc_default.png",
+            "referrer": "origin",
+            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+            "og:locale": "en_US",
+            "og:url": "https://weather.com/weather/today/l/Seattle+WA?canonicalCityId=0795df0bbf6ddfe58c10abd8ce5ed2a901e48b13b3ee35d10cb229baff15ed15"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://s.w-x.co/240x180_twc_default.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Seattle, WA Current Weather | AccuWeather",
+      "htmlTitle": "\u003cb\u003eSeattle\u003c/b\u003e, WA \u003cb\u003eCurrent Weather\u003c/b\u003e | AccuWeather",
+      "link": "https://www.accuweather.com/en/us/seattle/98104/current-weather/351409",
+      "displayLink": "www.accuweather.com",
+      "snippet": "Current weather in Seattle, WA. Check current conditions in Seattle, WA with radar, hourly, and more.",
+      "htmlSnippet": "\u003cb\u003eCurrent weather in Seattle\u003c/b\u003e, WA. Check current conditions in Seattle, WA with radar, hourly, and more.",
+      "cacheId": "-pE4L94mPyUJ",
+      "formattedUrl": "https://www.accuweather.com/en/us/seattle/98104/current-weather/351409",
+      "htmlFormattedUrl": "https://www.accu\u003cb\u003eweather\u003c/b\u003e.com/en/us/\u003cb\u003eseattle\u003c/b\u003e/98104/\u003cb\u003ecurrent\u003c/b\u003e-\u003cb\u003eweather\u003c/b\u003e/351409",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuL3Cl1PGFBllvcwU4b4wHJPPefT6kVDqeEeO7j9LjXQpxbXqUOc2DOh1U",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "postaladdress": [
+          {
+            "addresslocality": "Bellevue",
+            "addressregion": "WA"
+          },
+          {
+            "addresslocality": "Kent",
+            "addressregion": "WA"
+          },
+          {
+            "addresslocality": "Tacoma",
+            "addressregion": "WA"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:app:url:iphone": "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:id:googleplay": "com.accuweather.android",
+            "twitter:card": "summary",
+            "twitter:app:url:ipad": "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:name:googleplay": "AccuWeather Winter weather alerts & forecast radar",
+            "twitter:app:id:iphone": "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "og:description": "Current weather in Seattle, WA. Check current conditions in Seattle, WA with radar, hourly, and more.",
+            "twitter:creator": "https://twitter.com/accuweather",
+            "og:image:secure_url": "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:image": "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:text:title": "Seattle, WA Current Weather | AccuWeather",
+            "twitter:site": "https://twitter.com/accuweather",
+            "fb:profile_id": "AccuWeather",
+            "og:type": "website",
+            "twitter:title": "Seattle, WA Current Weather | AccuWeather",
+            "twitter:site:id": "https://twitter.com/accuweather",
+            "og:image:url": "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "og:title": "Seattle, WA Current Weather | AccuWeather",
+            "twitter:app:id:ipad": "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "fb:pages": "71781612888",
+            "site_name": "AccuWeather",
+            "referrer": "origin",
+            "fb:app_id": "132437483467956",
+            "twitter:app:url:googleplay": "https://play.google.com/store/apps/details?id=com.accuweather.android",
+            "twitter:creator:id": "https://twitter.com/accuweather",
+            "twitter:app:name:ipad": "AccuWeather: Weather Tracker",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "Current weather in Seattle, WA. Check current conditions in Seattle, WA with radar, hourly, and more.",
+            "og:url": "https://www.accuweather.com/en/us/seattle/98104/current-weather/351409",
+            "twitter:app:name:iphone": "AccuWeather: Weather Tracker"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.accuweather.com/images/logos/aw-logo-og-meta.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Hourly Weather Forecast for Seattle, WA - The Weather Channel ...",
+      "htmlTitle": "\u003cb\u003eHourly Weather\u003c/b\u003e Forecast for \u003cb\u003eSeattle\u003c/b\u003e, WA - The \u003cb\u003eWeather\u003c/b\u003e Channel ...",
+      "link": "https://weather.com/weather/hourbyhour/l/Seattle+WA?canonicalCityId=0795df0bbf6ddfe58c10abd8ce5ed2a901e48b13b3ee35d10cb229baff15ed15",
+      "displayLink": "weather.com",
+      "snippet": "Hourly Local Weather Forecast, weather conditions, precipitation, dew point, humidity, wind from Weather.com and The Weather Channel.",
+      "htmlSnippet": "\u003cb\u003eHourly Local Weather\u003c/b\u003e Forecast, \u003cb\u003eweather\u003c/b\u003e conditions, precipitation, dew point, humidity, wind from \u003cb\u003eWeather\u003c/b\u003e.com and The \u003cb\u003eWeather\u003c/b\u003e Channel.",
+      "formattedUrl": "https://weather.com/weather/hourbyhour/l/Seattle+WA?canonicalCityId...",
+      "htmlFormattedUrl": "https://\u003cb\u003eweather\u003c/b\u003e.com/\u003cb\u003eweather\u003c/b\u003e/hourbyhour/l/\u003cb\u003eSeattle\u003c/b\u003e+WA?canonicalCityId...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBGDEb7y6CRPBkxG3a7KwLE9CqhutCDp8WC8MBma6e1XEmhQ7X3AKnVUI",
+            "width": "240",
+            "height": "180"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "apple-itunes-app": "app-id=295646461",
+            "og:image": "https://s.w-x.co/240x180_twc_default.png",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "og:site_name": "The Weather Channel",
+            "og:image:url": "https://s.w-x.co/240x180_twc_default.png",
+            "og:title": "Hourly Weather Forecast for Seattle, WA - The Weather Channel | Weather.com",
+            "msapplication-tileimage": "/hourly/assets/ms-icon-144x144.d353af.png",
+            "og:description": "Hourly Local Weather Forecast, weather conditions, precipitation, dew point, humidity, wind from Weather.com and The Weather Channel",
+            "og:image:secure_url": "https://s.w-x.co/240x180_twc_default.png",
+            "referrer": "origin",
+            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+            "og:locale": "en_US",
+            "og:url": "https://weather.com/weather/hourbyhour/l/Seattle+WA?canonicalCityId=0795df0bbf6ddfe58c10abd8ce5ed2a901e48b13b3ee35d10cb229baff15ed15"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://s.w-x.co/240x180_twc_default.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Seattle, WA Weather Conditions | Weather Underground",
+      "htmlTitle": "\u003cb\u003eSeattle\u003c/b\u003e, WA \u003cb\u003eWeather\u003c/b\u003e Conditions | \u003cb\u003eWeather\u003c/b\u003e Underground",
+      "link": "https://www.wunderground.com/weather/us/wa/seattle",
+      "displayLink": "www.wunderground.com",
+      "snippet": "Seattle Weather Forecasts. Weather Underground provides local & long-range weather forecasts, weatherreports, maps & tropical weather conditions for the ...",
+      "htmlSnippet": "\u003cb\u003eSeattle Weather\u003c/b\u003e Forecasts. \u003cb\u003eWeather\u003c/b\u003e Underground provides \u003cb\u003elocal\u003c/b\u003e &amp; long-range \u003cb\u003eweather\u003c/b\u003e forecasts, weatherreports, maps &amp; tropical \u003cb\u003eweather\u003c/b\u003e conditions for the&nbsp;...",
+      "cacheId": "JRouEtsDurcJ",
+      "formattedUrl": "https://www.wunderground.com/weather/us/wa/seattle",
+      "htmlFormattedUrl": "https://www.wunderground.com/\u003cb\u003eweather\u003c/b\u003e/us/wa/\u003cb\u003eseattle\u003c/b\u003e",
+      "pagemap": {
+        "metatags": [
+          {
+            "theme-color": "#1976d2",
+            "viewport": "width=device-width, initial-scale=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "7-Day Forecast 47.61N 122.32W",
+      "htmlTitle": "7-Day Forecast 47.61N 122.32W",
+      "link": "https://forecast.weather.gov/MapClick.php?lat=47.60357000000005&lon=-122.32944999999995",
+      "displayLink": "forecast.weather.gov",
+      "snippet": "Another major winter storm is set to move across California late today through ... Current conditions at ... Zone Area Forecast for Seattle and Vicinity, WA.",
+      "htmlSnippet": "Another major winter storm is set to move across California late \u003cb\u003etoday\u003c/b\u003e through ... \u003cb\u003eCurrent\u003c/b\u003e conditions at ... Zone Area Forecast for \u003cb\u003eSeattle\u003c/b\u003e and Vicinity, WA.",
+      "cacheId": "RyUP2nG-ydoJ",
+      "formattedUrl": "https://forecast.weather.gov/MapClick.php?lat=47.60357000000005...",
+      "htmlFormattedUrl": "https://forecast.\u003cb\u003eweather\u003c/b\u003e.gov/MapClick.php?lat=47.60357000000005...",
+      "pagemap": {
+        "metatags": [
+          {
+            "dc.publisher": "NOAA's National Weather Service",
+            "dc.description": "NOAA National Weather Service National Weather Service",
+            "viewport": "width=device-width",
+            "dc.creator": "US Department of Commerce, NOAA, National Weather Service",
+            "dc.title": "National Weather Service",
+            "dc.rights": "//www.weather.gov/disclaimer.php",
+            "rating": "General",
+            "dc.language": "EN-US",
+            "dc.keywords": "weather, National Weather Service",
+            "dc.contributor": "National Weather Service"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Seattle, WA - Current Weather - The Weather Network",
+      "htmlTitle": "\u003cb\u003eSeattle\u003c/b\u003e, WA - \u003cb\u003eCurrent Weather\u003c/b\u003e - The \u003cb\u003eWeather\u003c/b\u003e Network",
+      "link": "https://www.theweathernetwork.com/us/weather/washington/seattle",
+      "displayLink": "www.theweathernetwork.com",
+      "snippet": "Get Seattle, WA current weather report with temperature, feels like, air quality, humidity, UV report and pollen forecast from TheWeatherNetwork.com.",
+      "htmlSnippet": "Get \u003cb\u003eSeattle\u003c/b\u003e, WA \u003cb\u003ecurrent weather\u003c/b\u003e report with temperature, feels like, air quality, humidity, UV report and pollen forecast from TheWeatherNetwork.com.",
+      "cacheId": "_gDXVmrQtbUJ",
+      "formattedUrl": "https://www.theweathernetwork.com/us/weather/washington/seattle",
+      "htmlFormattedUrl": "https://www.the\u003cb\u003eweather\u003c/b\u003enetwork.com/us/\u003cb\u003eweather\u003c/b\u003e/washington/\u003cb\u003eseattle\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-ipBvIyMsElVmpq0H8mEX_8bMVjSqolTcaAVHJa1TPVvsEVEIo4JqLXBc",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.theweathernetwork.com/images/logos/twn-logo.png",
+            "apple-itunes-app": "app-id=473299958, app-argument=twnmm://current?placeCode=USWA0395",
+            "og:image:width": "600",
+            "og:image:alt": "Seattle, WA - Current Weather - The Weather Network",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Seattle, WA - Current Weather - The Weather Network",
+            "theme-color": "#175489",
+            "og:site_name": "The Weather Network",
+            "twitter:url": "https://www.theweathernetwork.com/us/weather/washington/seattle",
+            "author": "Pelmorex Corp.",
+            "og:title": "Seattle, WA - Current Weather - The Weather Network",
+            "og:image:height": "600",
+            "og:image:type": "image/png",
+            "og:description": "Get Seattle, WA current weather report with temperature, feels like, air quality, humidity, UV report and pollen forecast from TheWeatherNetwork.com.",
+            "fb:pages": "9525286907",
+            "twitter:image": "https://www.theweathernetwork.com/images/logos/twn-logo.png",
+            "next-head-count": "70",
+            "fb:app_id": "150026425066547",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=10, user-scalable=yes",
+            "twitter:description": "Get Seattle, WA current weather report with temperature, feels like, air quality, humidity, UV report and pollen forecast from TheWeatherNetwork.com.",
+            "og:url": "https://www.theweathernetwork.com/us/weather/washington/seattle"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.theweathernetwork.com/images/logos/twn-logo.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Weather.gov \u003e Seattle/Tacoma, WA",
+      "htmlTitle": "\u003cb\u003eWeather\u003c/b\u003e.gov &gt; \u003cb\u003eSeattle\u003c/b\u003e/Tacoma, WA",
+      "link": "https://www.weather.gov/sew/",
+      "displayLink": "www.weather.gov",
+      "snippet": "Winter Storm to Develop over the Central U.S.; Severe Thunderstorms and Flooding in the South. Heavy mountain snow and gusty winds over the Sierras today will ...",
+      "htmlSnippet": "Winter Storm to Develop over the Central U.S.; Severe Thunderstorms and Flooding in the South. Heavy mountain snow and gusty winds over the Sierras \u003cb\u003etoday\u003c/b\u003e will&nbsp;...",
+      "cacheId": "KjzSQy_eIEQJ",
+      "formattedUrl": "https://www.weather.gov/sew/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003eweather\u003c/b\u003e.gov/sew/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS6UqvPD4CoJPpbvOzvwT-LVFC7Q2U2MTrVzvjxbgfuJrtuKQ59kpHmh_y",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "dc.publisher": "NOAA's National Weather Service",
+            "dc.description": "NOAA National Weather Service Seattle/Tacoma, WA",
+            "dc.creator": "US Department of Commerce, NOAA, National Weather Service",
+            "dc.title": "Seattle/Tacoma, WA",
+            "dc.rights": "http://www.weather.gov/disclaimer.php",
+            "rating": "General",
+            "dc.language": "EN-US",
+            "dc.keywords": "weather, Seattle/Tacoma, WA",
+            "dc.contributor": "National Weather Service"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.weather.gov/images/sew/sailing-icon-5.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Seattle, WA Hourly Weather Forecast | Weather Underground",
+      "htmlTitle": "\u003cb\u003eSeattle\u003c/b\u003e, WA \u003cb\u003eHourly Weather\u003c/b\u003e Forecast | \u003cb\u003eWeather\u003c/b\u003e Underground",
+      "link": "https://www.wunderground.com/hourly/us/wa/seattle",
+      "displayLink": "www.wunderground.com",
+      "snippet": "Seattle Weather Forecasts. Weather Underground provides local & long-range weather forecasts, weatherreports, maps & tropical weather conditions for the ...",
+      "htmlSnippet": "\u003cb\u003eSeattle Weather\u003c/b\u003e Forecasts. \u003cb\u003eWeather\u003c/b\u003e Underground provides \u003cb\u003elocal\u003c/b\u003e &amp; long-range \u003cb\u003eweather\u003c/b\u003e forecasts, weatherreports, maps &amp; tropical \u003cb\u003eweather\u003c/b\u003e conditions for the&nbsp;...",
+      "formattedUrl": "https://www.wunderground.com/hourly/us/wa/seattle",
+      "htmlFormattedUrl": "https://www.wunderground.com/\u003cb\u003ehourly\u003c/b\u003e/us/wa/\u003cb\u003eseattle\u003c/b\u003e",
+      "pagemap": {
+        "metatags": [
+          {
+            "theme-color": "#1976d2",
+            "viewport": "width=device-width, initial-scale=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Washington Weather on KING5 in Seattle | king5.com",
+      "htmlTitle": "Washington \u003cb\u003eWeather\u003c/b\u003e on KING5 in \u003cb\u003eSeattle\u003c/b\u003e | king5.com",
+      "link": "https://www.king5.com/weather",
+      "displayLink": "www.king5.com",
+      "snippet": "Hourly Temperatures. 6 PM. Cloudy. 48°. 7 PM.",
+      "htmlSnippet": "\u003cb\u003eHourly\u003c/b\u003e Temperatures. 6 PM. Cloudy. 48°. 7 PM.",
+      "cacheId": "hMhcOLnSC9UJ",
+      "formattedUrl": "https://www.king5.com/weather",
+      "htmlFormattedUrl": "https://www.king5.com/\u003cb\u003eweather\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPf9PQ_tSzOn4Yf0pSHSZFYH7FrnFsOv7Q9SOq52A7TGf_V02F1a2PTLy-",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=1453203197",
+            "theme-color": "#045ea8",
+            "site": "king5.com",
+            "fb:app_id": "156537084972880",
+            "og:site_name": "king5.com",
+            "viewport": "width=device-width",
+            "og:locale": "en_US"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media.king5.com/assets/KING/images/48eaa273-17d8-4073-bba8-2945a8b7b450/48eaa273-17d8-4073-bba8-2945a8b7b450_360x203.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Seattle Weather | News, Weather, Sports, Breaking News | KOMO",
+      "htmlTitle": "\u003cb\u003eSeattle Weather\u003c/b\u003e | News, \u003cb\u003eWeather\u003c/b\u003e, Sports, Breaking News | KOMO",
+      "link": "https://komonews.com/weather",
+      "displayLink": "komonews.com",
+      "snippet": "KOMO 4 TV provides news, sports, weather and local event coverage in the Seattle, Washington area including Bellevue, Redmond, Renton, Kent, Tacoma, ...",
+      "htmlSnippet": "KOMO 4 TV provides news, sports, \u003cb\u003eweather\u003c/b\u003e and \u003cb\u003elocal\u003c/b\u003e event coverage in the \u003cb\u003eSeattle\u003c/b\u003e, Washington area including Bellevue, Redmond, Renton, Kent, Tacoma,&nbsp;...",
+      "cacheId": "82CVhfFw1BEJ",
+      "formattedUrl": "https://komonews.com/weather",
+      "htmlFormattedUrl": "https://komonews.com/\u003cb\u003eweather\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSu1o3d28etDagEzVjjkc_XUdlVlxYFaWpiewIuZ-TPmhZXrjcqaZ0if2fe",
+            "width": "299",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "package-version": "1.0.0",
+            "og:image": "https://komonews.com/resources/assets/komo/images/brand-icons/KOMO-16x9.jpg",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Weather",
+            "og:type": "article",
+            "article:published_time": "2023-03-16T01:10:52+00:00",
+            "og:site_name": "KOMO",
+            "og:title": "Weather",
+            "title": "Weather",
+            "facebook:image": "/resources/assets/komo/images/logos/komo-logo.svg",
+            "fb:pages": "114431401958534",
+            "og:description": "KOMO 4 TV provides news, sports, weather and local event coverage in the Seattle, Washington area including Bellevue, Redmond, Renton, Kent, Tacoma, Bremerton, SeaTac, Auburn, Mercer Island, Bothell, Shoreline, Lynnwood, Mill Creek and Everett.",
+            "twitter:image": "https://komonews.com/resources/assets/komo/images/brand-icons/KOMO-16x9.jpg",
+            "article:author": "https://www.facebook.com/komonews",
+            "article:publisher": "https://www.facebook.com/komonews",
+            "blitz": "mu-cc36119f-f4dca522-3261b206-4b3bbd3f",
+            "fb:app_id": "536745033167551",
+            "twitter:site": "@komonews",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=0.5",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "KOMO 4 TV provides news, sports, weather and local event coverage in the Seattle, Washington area including Bellevue, Redmond, Renton, Kent, Tacoma, Bremerton, SeaTac, Auburn, Mercer Island, Bothell, Shoreline, Lynnwood, Mill Creek and Everett.",
+            "og:locale": "en_US",
+            "og:url": "https://komonews.com/weather"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://komonews.com/resources/media2/16x9/full/389/center/80/44925122-5e7d-440e-7c03-4d0f7e8c476d-medium16x9_Hulu2copy.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
